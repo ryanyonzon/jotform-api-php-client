@@ -1,5 +1,5 @@
 {
-    "name": "rawswift/jotform-api-php-client",
+    "name": "ryanyonzon/jotform-api-php-client",
     "description": "JotForm API Client Library for PHP",
     "license": "MIT",
     "keywords": ["jotform", "api", "php", "client", "library"],

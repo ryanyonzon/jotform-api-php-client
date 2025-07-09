@@ -17,7 +17,7 @@ The recommended way to install jotform-api-php-client is through [Composer](http
 
 Next, run the Composer command to install jotform-api-php-client library:
 
-    php composer.phar require rawswift/jotform-api-php-client:dev-master
+    php composer.phar require ryanyonzon/jotform-api-php-client:dev-master
 
 After installing, simply include the Composer's autoloader (inside your script):
 
@@ -101,7 +101,7 @@ try {
 }
 ```
 
-See [examples](https://github.com/rawswift/jotform-api-php-client/tree/master/examples) folder for more sample scripts.
+See [examples](https://github.com/ryanyonzon/jotform-api-php-client/tree/master/examples) folder for more sample scripts.
 
 ## License
 
